@@ -1,0 +1,5 @@
+h1. Fuzzy String Matching Routines
+
+First implementation will be of Text Brew:
+
+  http://www.ling.ohio-state.edu/~cbrew/
