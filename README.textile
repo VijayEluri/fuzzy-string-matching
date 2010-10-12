@@ -1,5 +1,5 @@
 h1. Fuzzy String Matching Routines
 
-First implementation will be of "Text Brew":http://www.ling.ohio-state.edu/~cbrew/
+First implementation will be of "Text Brew":http://www.ling.ohio-state.edu/~cbrew/, see also "Text::Brew":http://www.ling.ohio-state.edu/~cbrew/ [Perl] and "brew.rb":http://github.com/kyleburton/fuzzy-string/blob/master/edist-app/lib/brew.rb [Ruby].
 
   
