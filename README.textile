@@ -2,4 +2,8 @@ h1. Fuzzy String Matching Routines
 
 First implementation will be of "Text Brew":http://www.ling.ohio-state.edu/~cbrew/, see also "Text::Brew":http://www.ling.ohio-state.edu/~cbrew/ [Perl] and "brew.rb":http://github.com/kyleburton/fuzzy-string/blob/master/edist-app/lib/brew.rb [Ruby].
 
-  
+h1. Future Work
+
+* Test various costs
+
+* Start Cost should be carried across the 1st row and 1st col, it is not currently initialized correctly.
