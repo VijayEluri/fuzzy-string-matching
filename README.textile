@@ -7,3 +7,7 @@ h1. Future Work
 * Test various costs
 
 * Start Cost should be carried across the 1st row and 1st col, it is not currently initialized correctly.
+
+* Validate the traceback path
+
+* Pull in test cases from: http://github.com/kyleburton/fuzzy-string/raw/master/other-langs/textBrew/data/test-cases.tab
