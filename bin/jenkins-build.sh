@@ -1,3 +1,3 @@
 set -eu
-# NB: when maven2 is installed, we can run the build
+export JAVA_HOME=/usr/lib/jvm/java-7-openjdk-amd64
 mvn clean install
